@@ -1,0 +1,6 @@
+com\weatherapp\util\JsonParser.class
+com\weatherapp\Main.class
+com\weatherapp\model\WeatherData.class
+com\weatherapp\service\ApiClient.class
+com\weatherapp\service\WeatherService.class
+com\weatherapp\ui\ConsoleUI.class

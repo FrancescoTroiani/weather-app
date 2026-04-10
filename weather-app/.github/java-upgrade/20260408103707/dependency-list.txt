@@ -1,0 +1,4 @@
+
+The following files have been resolved:
+   com.google.code.gson:gson:jar:2.10.1:compile[36m -- module com.google.gson[m
+
